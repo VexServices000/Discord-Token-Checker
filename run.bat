@@ -1,0 +1,2 @@
+node tokenchecker.js
+PAUSE
